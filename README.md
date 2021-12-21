@@ -32,15 +32,15 @@ For new resources, please ensure that the site is available for public and free 
 
 ```
 {
-  "name": "MiaRus",
-  "type": "submit",
+  "name": "Example Name",
+  "type": "url",
   "url": "http://example.com"
 }
 ```
 
 <ol start="2">
   <li>Submit pull request!</li>
-</ol>https://github.com/Moadzaka
+</ol>
 
 Thank you!
 
